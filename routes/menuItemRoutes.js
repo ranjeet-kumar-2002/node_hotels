@@ -33,5 +33,5 @@ router.post('/',async (req, res) =>{
      }
   });
 
-  // comment added for testing purpose
+  // comment added for testing
   module.exports = router;
